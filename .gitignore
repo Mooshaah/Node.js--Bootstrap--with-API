@@ -1,0 +1,4 @@
+.idea
+procfile
+node_modules/
+API_KEY_and_List_ID/
